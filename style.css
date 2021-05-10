@@ -50,7 +50,7 @@ body {
 
 /* Styling the Banner*/
 #BannerBox {
-  background-color:#fc03ec;
+  background-color:#fc0303;
   height: 55vh;
   width: 100%;
   color: #fff;
@@ -104,14 +104,6 @@ body {
 /*Making the paragraph's margin 0*/
 p {
   margin: 0px;
-}
-
-/* Styling the source*/
-.Source {
-  font-size: 1em;
-  padding: 30px 0px 30px 0px;
-  display: flex;
-  justify-content: center;
 }
 
 /* unvisited source link */
